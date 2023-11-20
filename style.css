@@ -111,3 +111,23 @@ h2 {
     flex-direction: column;
     gap: 5px
 }
+
+.main2 {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.txt2 {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style:italic;
+    padding: 50px 150px 0px;
+}
+
+.author {
+    padding: 0px 150px;
+    font-weight: bold;
+    align-self: flex-end;
+}
