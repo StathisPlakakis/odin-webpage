@@ -156,3 +156,11 @@ justify-content: space-evenly;
     color: #E5E7EB;
     font-size: 15px;
 }
+
+footer {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: center;
+    color: #F9faf8;
+    padding: 20px;
+}
